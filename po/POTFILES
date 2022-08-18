@@ -1,0 +1,6 @@
+data/dev.up7.browser.desktop.in
+data/dev.up7.browser.appdata.xml.in
+data/dev.up7.browser.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

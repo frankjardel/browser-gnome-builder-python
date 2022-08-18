@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="browser">
+	<schema id="dev.up7.browser" path="/dev/up7/browser/">
+	</schema>
+</schemalist>
